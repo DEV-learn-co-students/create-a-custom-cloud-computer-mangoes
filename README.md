@@ -1,12 +1,14 @@
 # Create a Custom Cloud Computer
 
-In this lab we're going to use the power of LearnIDE to create a computer in
-the cloud. Why create a computer in the cloud? We do this so that your, our
-student, doesn't have to worry about setting up a coding environment. By
-helping your workspace "live in the cloud" we assure you that you can work from
-wherever you have capability: home, grandma's house, a library terminal, at
-work during a lunchbreak. Here's how to take advantage of this "cloud
-computer."
+In this first lab we're going to use the power of Flatiron School's
+instructional environment (LearnIDE, the thing where you click on lessons and
+submit labs) to create a computer in the cloud.
+
+Why create a computer in the cloud? We do this so that your, our student,
+doesn't have to worry about setting up a coding environment. By helping your
+workspace "live in the cloud" we assure you that you can work from wherever you
+want: home, grandma's house, a library terminal, at work during a
+lunchbreak. Here's how to take advantage of this "cloud computer."
 
 Whenever you open to this lab, and open up the learn IDE <span
 style="display:inline"><img src="./img/open_ide.png" alt="Button to open
