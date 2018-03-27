@@ -1,7 +1,7 @@
 # Create a Custom Cloud Computer
 
 In this first lab we're going to use the power of Flatiron School's
-instructional environment (LearnIDE, the thing where you click on lessons and
+instructional environment (Learn, the thing where you click on lessons and
 submit labs) to create a computer in the cloud.
 
 Why create a computer in the cloud? We do this so that your, our student,
@@ -10,19 +10,36 @@ workspace "live in the cloud" we assure you that you can work from wherever you
 want: home, grandma's house, a library terminal, at work during a
 lunchbreak. Here's how to take advantage of this "cloud computer."
 
-Whenever you open to this lab, and open up the learn IDE <span
+Whenever you open to **this** lab and open up the learn IDE by clicking
+the "OPEN IDE" <span
 style="display:inline"><img src="./img/open_ide.png" alt="Button to open
-IDE"/></span>. You'll be presented with the LearnIDE (integrated development
-environment). What's even more exciting is that this computer is "stateful."
-That's a fancy technologist word meaning that if you close the tab suddenly or
-the computer you're using catches fire or all the wifi in your city goes down,
-**the information on your cloud computer is completely safe!**
+IDE"/></span> button. You'll be presented with an integrated development
+environment (IDE) hosted, for you, in the cloud on a virtual computer.
+That's what we mean by a "computer in the cloud." Somewhere, somewhere
+that you're not responsible for, a computer is running and is providing
+you this "IDE" to run code on that computer.
+
+Now the IDE might look a bit scary at first, but in time you'll come to
+view it as a reliable friend. You'll be learning more about its parts in
+upcoming lessons.
 
 ## Experiencing Your Custom Cloud Computer's "Statefulness"
 
-Open up the IDE for this lesson.
+What's really exciting is that this cloud computer is "stateful."
+That's a fancy technologist word meaning that if you close the tab suddenly or
+the computer you're using catches fire or all the Wifi in your city goes down,
+**the information on your cloud computer is completely safe!**
 
-In the Learn Terminal type:
+Let's test it out!
+
+Open up the IDE for this lesson by using the "Open IDE" button. If your IDE
+is already open, then you can skip this step :).
+
+Click in the Learn Terminal (the black part at the bottom) in the same way you 
+would select any window on Windows or MacOS. The white cursor should start
+flashing letting you know that it's waiting for your input.
+
+Type:
 
 `$ date > remember_me.txt`
 
@@ -33,11 +50,14 @@ You can select this file from the "File explorer" at left and see that your
 file contains the date, time, timezone and year. It should look something like:
 `Tue Mar 27 16:40:58 UTC 2018`.
 
-Now. Close this tab! Close learn! Close everything! If you're feeling
-particularly daring feel free to reboot your local machine (although that's not
-necessary!) You can restore a closed tab by using (⌘ + Shift + T).
+Now, after you read this paragraph, you're going to close this tab!
 
-Do it!
+Remember, because your cloud computer is _stateful_ we've
+already saved that development space _for you_! You're not going to lose anything.
+Accordingly, we should expect `remember_me.txt` to be present and to have your
+data. You can restore a closed tab by using (⌘ + Shift + T).
+
+Try it out now! We'll wait.
 
 You're back! Glad to see you. Re-open the lab with the "Open IDE" button.  Take
 a look at your `remember_me.txt` file and you'll see that it has the date and
