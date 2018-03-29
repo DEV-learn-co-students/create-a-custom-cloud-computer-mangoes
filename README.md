@@ -54,7 +54,7 @@ Type:
 ![Redirect date command output to textfile](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/redir_date.png)
 
 This will put the current date and time into a file called `remember_me.txt`
-You can select this file from the "File explorer" at left and see that your
+You can select this file from the "File Browser" at left and see that your
 file contains the date, time, timezone and year. It should look something like:
 `Tue Mar 27 16:40:58 UTC 2018`.
 
