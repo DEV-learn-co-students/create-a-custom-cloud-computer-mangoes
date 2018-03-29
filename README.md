@@ -13,11 +13,17 @@ lunchbreak. Here's how to take advantage of this "cloud computer."
 Whenever you open to **this** lab and open up the learn IDE by clicking
 the "OPEN IDE" <span
 style="display:inline"><img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/open_ide.png" alt="Button to open
-IDE"/></span> button. You'll be presented with an integrated development
+IDE"/></span> button, you'll be presented with an integrated development
 environment (IDE) hosted, for you, in the cloud on a virtual computer.
-That's what we mean by a "computer in the cloud." Somewhere, somewhere
+
+That sounded like a lot of buzzwords, but they all mean something, we
+promise you :)
+
+This is what we mean by a "computer in the cloud:" Somewhere, somewhere
 that you're not responsible for, a computer is running and is providing
-you this "IDE" to run code on that computer.
+you this "IDE" to run code on that computer. It is saving your work and
+as long as you have a network connection and a computer, _you can access
+it_.
 
 Now the IDE might look a bit scary at first, but in time you'll come to
 view it as a reliable friend. You'll be learning more about its parts in
