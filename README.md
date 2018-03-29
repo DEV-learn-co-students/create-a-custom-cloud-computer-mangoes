@@ -12,7 +12,7 @@ lunchbreak. Here's how to take advantage of this "cloud computer."
 
 Whenever you open to **this** lab and open up the learn IDE by clicking
 the "OPEN IDE" <span
-style="display:inline"><img src="./img/open_ide.png" alt="Button to open
+style="display:inline"><img src="https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/open_ide.png" alt="Button to open
 IDE"/></span> button. You'll be presented with an integrated development
 environment (IDE) hosted, for you, in the cloud on a virtual computer.
 That's what we mean by a "computer in the cloud." Somewhere, somewhere
@@ -35,7 +35,7 @@ Let's test it out!
 Open up the IDE for this lesson by using the "Open IDE" button. If your IDE
 is already open, then you can skip this step :).
 
-Click in the Learn Terminal (the black part at the bottom) in the same way you 
+Click in the Learn Terminal (the black part at the bottom) in the same way you
 would select any window on Windows or MacOS. The white cursor should start
 flashing letting you know that it's waiting for your input.
 
@@ -43,7 +43,7 @@ Type:
 
 `$ date > remember_me.txt`
 
-![Redirect date command output to textfile](./img/redir_date.png)
+![Redirect date command output to textfile](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/redir_date.png)
 
 This will put the current date and time into a file called `remember_me.txt`
 You can select this file from the "File explorer" at left and see that your
@@ -65,7 +65,7 @@ time from your last session. This means that you can use this computer as a
 private web development environment.  We think it's very cool and hope you will
 too.
 
-![Resurrected tab has previously stored date output](./img/content_of_remember.png)
+![Resurrected tab has previously stored date output](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/content_of_remember.png)
 
 ## Basic Web Server
 
@@ -83,7 +83,7 @@ and "serve" it.
 
 Activate the server by typing `httpserver`. It should look like this
 
-![Basic httpserver launch](./img/httpserver_command.png)
+![Basic httpserver launch](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/httpserver_command.png)
 
 The `httpserver` will tell you how to access your Custom Cloud Computer's
 webserver by offering you an address and a port.
@@ -97,12 +97,12 @@ and port specification to our browser.
 Provide this address and port combination to your browser. it should look like
 this:
 
-![Output of index.html page](./img/basic_index_html_display.png)
+![Output of index.html page](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/basic_index_html_display.png)
 
 If you look in the Learn terminal you can see that we logged to the screen a
 "hit" or a "web site request."
 
-![Server output for the browser lookup](./img/server_output.png)
+![Server output for the browser lookup](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/server_output.png)
 
 Amazing! This line means that some computer at 204.148.42.142 at a certain
 datestamp said `GET` me whatever's at `/` and the server responded `200` which
