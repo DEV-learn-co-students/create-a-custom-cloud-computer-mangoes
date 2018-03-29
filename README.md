@@ -113,7 +113,7 @@ actually just human-friendly names placed on those numbers!
 
 Let's look at what our web server is serving: type in the **address**, then
 a colon (`:`) and then the **port**. The screen shot below shows what it looks
-like.
+like on our test instance. Try it out for your computer and its web server.
 
 ![Output of index.html page](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/basic_index_html_display.png)
 
