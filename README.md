@@ -129,6 +129,25 @@ means "OK!"
 To stop the web server type "CTRL + C." If you try to refresh the same page
 you'll no longer get anythihng back because, well, you stopped the server.
 
+## Submitting this Lab
+
+In **most** labs you'll have a series of tests that will guide you to success.
+You'll run those tests by typing `learn` in the Terminal.
+
+**This** lab doesn't have tests so you're going to go to the second step which
+is to type `learn submit`
+
+![Learn Indicators](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/learn_submit.png)
+
+When that happens, you'll see the indicators on the right look like this:
+
+![Learn Indicators](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/learn_done_indicators.png)
+
+Mark the lab as complete by mousing over the grayed-out "READ" icon. Confirm
+that you're done by clicking on the "I'm Done" button. That's it!
+
+![Commit output](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/mark_lesson_complete.png)
+
 ## Conclusion
 
 While you'll work through many labs and READMEs in this course, you can always
