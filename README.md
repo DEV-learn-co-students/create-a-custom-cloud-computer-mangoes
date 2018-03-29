@@ -146,6 +146,8 @@ you, but in this case, this isn't a lab that's testing something and that
 of this lessons.
 
 The following steps **have not been taught** and **you're not expected to understand them**.
+If you have trouble following these steps or get confused **don't panic!** Your
+instructor will be able to help you on the first day of class!
 
 When entering the following steps, **don't** type in the `$` – that's a
 typographical convention for showing "this is a command you enter in the Terminal."
