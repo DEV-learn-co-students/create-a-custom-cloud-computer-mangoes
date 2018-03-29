@@ -194,4 +194,5 @@ that you're done!
 
 ![Commit output](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/mark_lesson_complete.png)
 
-All done! Sorry for the extra hassle here.
+All done! While you might not understand all the steps of using `git` and GitHub yet, this is the process used by
+thousands of developers worldwide _every day_: create push branches (e.g. `remember_me`), create PRs for the branch, merge it in. Consider this a brief tour of the future you're going to be a master of in very short order!
