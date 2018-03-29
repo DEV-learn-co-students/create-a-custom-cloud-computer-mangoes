@@ -98,12 +98,22 @@ webserver by offering you an address and a port.
 
 In this example the address is `192.241.157.192` and the port is `53056`. This
 server is available on the internet at `192.241.157.192` and this server is
-listening at port `53056`. We don't need to understand the finer points of
-addresses and ports yet save to know that we need to provide the full address
-and port specification to our browser.
+listening at port `53056`. It's sorta like telling someone to deliver a package
+to "85 Broad Street, New York, New York 10006" and then specifying "27th floor."
 
-Provide this address and port combination to your browser. it should look like
-this:
+We don't need to understand the finer points of addresses and ports yet save 
+to know that in order for a browser to find your cloud computer's web server,
+we need to provide the full address and port specification to our browser.
+
+Provide this address and port combination to your browser. You may have never
+typed _numbers_ in your browser's URL bar before. That's OK, there's a first
+time for everything and, as you may come to learn if you continue your exploration
+of web programming, the names like `flatironschool.com` or `google.com` are
+actually just human-friendly names placed on those numbers!
+
+Let's look at what our web server is serving: type in the **address**, then
+a colon (`:`) and then the **port**. The screen shot below shows what it looks
+like.
 
 ![Output of index.html page](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/basic_index_html_display.png)
 
