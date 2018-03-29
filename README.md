@@ -141,8 +141,11 @@ to see what you do!
 
 
 We need to do some housekeeping on this lab. Most labs will handle this for
-you, but in this case, this isn't a lab that's testing something. The following
-steps **have not been taught** and **you're not expected to understand them**.
+you, but in this case, this isn't a lab that's testing something and that
+"finishes" we need to tell learn that we've understood the expectations
+of this lessons.
+
+The following steps **have not been taught** and **you're not expected to understand them**.
 
 When entering the following steps, **don't** type in the `$` – that's a
 typographical convention for showing "this is a command you enter in the Terminal."
