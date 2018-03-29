@@ -69,7 +69,7 @@ Try it out now! We'll wait.
 
 You're back! Glad to see you. Re-open the lab with the "Open IDE" button.  Take
 a look at your `remember_me.txt` file and you'll see that it has the date and
-time from your last session. This means that you can use this computer as a
+time from _before you closed the tab_. This means that you can use cloud computer as a
 private web development environment.  We think it's very cool and hope you will
 too.
 
