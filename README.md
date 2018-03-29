@@ -29,6 +29,8 @@ Now the IDE might look a bit scary at first, but in time you'll come to
 view it as a reliable friend. You'll be learning more about its parts in
 upcoming lessons.
 
+![The LearnIDE, labeled](http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png)
+
 ## Experiencing Your Custom Cloud Computer's "Statefulness"
 
 What's really exciting is that this cloud computer is "stateful."
