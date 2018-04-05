@@ -50,31 +50,39 @@ flashing letting you know that it's waiting for your input.
 **Typographical Note**:The technical writing industry has adopted the
 convention of beginning lines that are typed into the Terminal with the
 character `$`. **You do not type the `$`** We are presenting this convention
-now because most of the information / guidance you will see on the Internet
-will follow this convention. In the example below, you will literally type:
+now because most of the information you will see on the Internet
+will follow this convention.
 
-`date > remember_me.txt`
-
-However expect to see "things you type in the terminal" expressed as the
-following from this moment on.
+In later parts of the documentation you'll see directions to enter the following
+in the terminal:
 
 `$ date > remember_me.txt`
 
+However you _actually_ type:
+
+`date > remember_me.txt`
+
+It looks like this:
+
 ![Redirect date command output to textfile](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/redir_date.png)
 
-This will put the current date and time into a file called `remember_me.txt`
+Typographic conventions aside, what did that command actually _do_?
+
+The command puts the current date and time into a file called `remember_me.txt`
 You can select this file from the "File Browser" at left and see that your
 file contains the date, time, timezone and year. It should look something like:
 `Tue Mar 27 16:40:58 UTC 2018`.
 
-Now, after you read this paragraph, you're going to close this browser tab or
+Now, after you read this next paragraph, you're going to close this browser tab or
 window.
 
 Remember, because your cloud computer is _stateful_ we've already saved that
 development space _for you_! You're not going to lose anything.  Accordingly,
-we should expect `remember_me.txt` to be present and to have your data. You can
-restore a closed tab by using (⌘ + Shift + T / Control + Shift + T on a Windows
-PC).
+we should expect `remember_me.txt` to be present and to have your data on the
+next visit to the IDE.
+
+You can restore a closed tab by using (⌘ + Shift + T / Control + Shift + T on a Windows
+PC). Write that down if you think you need to!
 
 Try it out now! Mac users type (`⌘ + w`). PC users type (`Control + w`). We'll
 wait.
