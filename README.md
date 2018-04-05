@@ -66,6 +66,9 @@ It looks like this:
 
 ![Redirect date command output to textfile](https://curriculum-content.s3.amazonaws.com/skills-front-end-web-development/create-a-custom-cloud-computer/redir_date.png)
 
+Please enter the command: `$ date > remember.txt` (now that you understand
+the convention!).
+
 Typographic conventions aside, what did that command actually _do_?
 
 The command puts the current date and time into a file called `remember_me.txt`
@@ -76,9 +79,10 @@ file contains the date, time, timezone and year. It should look something like:
 Now, after you read this next paragraph, you're going to close this browser tab or
 window.
 
-Remember, because your cloud computer is _stateful_ we've already saved that
-development space _for you_! You're not going to lose anything.  Accordingly,
-we should expect `remember_me.txt` to be present and to have your data on the
+Remember, because your cloud computer is _stateful_ Learn has already saved that
+development space – including your new file – _for you_! You're not going to lose anything.
+
+Accordingly, we should expect `remember_me.txt` to be present and to have your data on the
 next visit to the IDE.
 
 You can restore a closed tab by using (⌘ + Shift + T / Control + Shift + T on a Windows
@@ -87,7 +91,7 @@ PC). Write that down if you think you need to!
 Try it out now! Mac users type (`⌘ + w`). PC users type (`Control + w`). We'll
 wait.
 
-You're back! Glad to see you. Re-open the lab with the "Open IDE" button.  Take
+You're back! We're glad to see you. Re-open the lab with the "Open IDE" button.  Take
 a look at your `remember_me.txt` file and you'll see that it has the date and
 time from _before you closed the tab_. This means that you can use cloud computer as a
 private web development environment.  We think it's very cool and hope you will
