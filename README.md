@@ -47,7 +47,16 @@ Click in the Learn Terminal (the black part at the bottom) in the same way you
 would select any window on Windows or MacOS. The white cursor should start
 flashing letting you know that it's waiting for your input.
 
-Type:
+**Typographical Note**:The technical writing industry has adopted the
+convention of beginning lines that are typed into the Terminal with the
+character `$`. **You do not type the `$`** We are presenting this convention
+now because most of the information / guidance you will see on the Internet
+will follow this convention. In the example below, you will literally type:
+
+`date > remember_me.txt`
+
+However expect to see "things you type in the terminal" expressed as the
+following from this moment on.
 
 `$ date > remember_me.txt`
 
@@ -58,14 +67,17 @@ You can select this file from the "File Browser" at left and see that your
 file contains the date, time, timezone and year. It should look something like:
 `Tue Mar 27 16:40:58 UTC 2018`.
 
-Now, after you read this paragraph, you're going to close this tab!
+Now, after you read this paragraph, you're going to close this browser tab or
+window.
 
-Remember, because your cloud computer is _stateful_ we've
-already saved that development space _for you_! You're not going to lose anything.
-Accordingly, we should expect `remember_me.txt` to be present and to have your
-data. You can restore a closed tab by using (⌘ + Shift + T).
+Remember, because your cloud computer is _stateful_ we've already saved that
+development space _for you_! You're not going to lose anything.  Accordingly,
+we should expect `remember_me.txt` to be present and to have your data. You can
+restore a closed tab by using (⌘ + Shift + T / Control + Shift + T on a Windows
+PC).
 
-Try it out now! We'll wait.
+Try it out now! Mac users type (`⌘ + w`). PC users type (`Control + w`). We'll
+wait.
 
 You're back! Glad to see you. Re-open the lab with the "Open IDE" button.  Take
 a look at your `remember_me.txt` file and you'll see that it has the date and
